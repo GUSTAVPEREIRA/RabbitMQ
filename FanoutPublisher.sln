@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutPublisher", "FanoutPublisher\FanoutPublisher.csproj", "{329DB7C2-05BC-40EF-899E-EBF67BE75CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutConsumer", "FanoutConsumer\FanoutConsumer.csproj", "{B570A5E7-B9B7-480F-A274-4A16DE826D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329DB7C2-05BC-40EF-899E-EBF67BE75CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329DB7C2-05BC-40EF-899E-EBF67BE75CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329DB7C2-05BC-40EF-899E-EBF67BE75CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329DB7C2-05BC-40EF-899E-EBF67BE75CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B570A5E7-B9B7-480F-A274-4A16DE826D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B570A5E7-B9B7-480F-A274-4A16DE826D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B570A5E7-B9B7-480F-A274-4A16DE826D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B570A5E7-B9B7-480F-A274-4A16DE826D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
